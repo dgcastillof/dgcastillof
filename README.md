@@ -5,6 +5,7 @@ Hago apps web y Android para problemas concretos, casi siempre porque las necesi
 ## Proyectos
 
 - **[Utilidades UNA](https://utilidades-una.com.ar)**: horarios y correlatividades para estudiantes de la Universidad Nacional de las Artes. Python y Flask.
+- **[Fluir de mí](https://fluirdemi.com.ar)**: sitio de una escuela de escritura creativa, con talleres y blog. Next.js y TypeScript.
 - **[Justina](https://justina.dgcastillof.com.ar)**: seguimiento de mis plantas. JavaScript.
 - **[Moneta](https://github.com/dgcastillof/moneta-caso)**: gastos, tarjetas, préstamos e inversiones. React, Flask y app Android. Uso privado.
 - **Hladík**: lista de tareas para Android, con widget y versión web. Kotlin. Uso privado.
