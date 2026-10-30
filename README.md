@@ -1,6 +1,6 @@
 # Hola, soy Diego
 
-Hago apps web y Android para problemas concretos, casi siempre porque las necesito yo. Varias llevan nombres de Borges.
+Hago apps web y Android para problemas concretos, casi siempre porque las necesito yo.
 
 ## Proyectos
 
